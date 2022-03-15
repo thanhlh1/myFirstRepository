@@ -5,3 +5,4 @@ delete git
 hihi
 thanh lol
 test new git
+local test
